@@ -1,6 +1,6 @@
 <?php
 /**
-* Copyright (C) 2013 Davide Pani (info@davidepani.com)
+* Copyright (C) 2016 Davide Pani (info@davidepani.com)
 * This file is part of Simple-OOP-Example
 * 
 * Simple-OOP-Example is free software: you can redistribute it and/or modify
